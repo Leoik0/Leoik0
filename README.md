@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<div style="margin-bottom: 20px;">
-<h2>Seja bem-vindo! Não garanto código 100% livre de bugs, mas garanto que foi feito com dedicação (e talvez um pouco de desespero)😎☕️ </h2>
-</div>
+
+<h2>Seja bem-vindo(a)! Não garanto código 100% livre de bugs, mas garanto que foi feito com dedicação (e talvez um pouco de desespero)😎☕️ </h2>
+
+<p>&nbsp;</p>
+
 
 
 <div align="center">  
